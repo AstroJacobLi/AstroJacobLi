@@ -10,4 +10,4 @@ I just graduated from the [Department of Astronomy](http://astro.pku.edu.cn/), [
   * GitHub: [AstroJacobLi](https://github.com/AstroJacobLi)
   * ORCID: [Jiaxuan Li](https://orcid.org/0000-0001-9592-4190)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroJacobLi&show_icons=true)
+![Jiaxuan Li's github stats](https://github-readme-stats.vercel.app/api?username=AstroJacobLi)
