@@ -6,7 +6,7 @@ I got my Bachelor's degree in Astrophysics from the [Department of Astronomy](ht
 - 🌱   I’m currently learning statistics and machine learning
 - 💬   Ask me about anything!
 - 📫   How to reach me: 
-  * Email: jiaxuan_li@pku.edu.cn
+  * Email: jiaxuanl@princeton.edu (preferred), jiaxuan_li@pku.edu.cn
   * GitHub: [AstroJacobLi](https://github.com/AstroJacobLi)
   * ORCID: [Jiaxuan Li](https://orcid.org/0000-0001-9592-4190)
 
